@@ -1,7 +1,11 @@
 partner list
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 SalesInc
 =======
 
 >>>>>>> 9bdc811 (F:)
+=======
+Boot.dev
+>>>>>>> Stashed changes
 TheStartup
