@@ -1,7 +1,4 @@
 partner list
-<<<<<<< HEAD
 SalesInc
-=======
-
->>>>>>> 9bdc811 (F:)
 TheStartup
+ClosedML
